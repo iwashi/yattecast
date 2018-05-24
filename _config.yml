@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  iwashi:
+    image_url: /images/actors/iwashi.png
+    name: iwashi
+    url: https://twitter.com/iwashi86
+  kaname:
+    image_url: /images/actors/kaname.jpg
+    name: __kaname__
+    url: https://twitter.com/__kaname__
+author: iwashi
+description: 技術を深掘りして楽しむPodcastです。
+description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcastです。
+email: fukabori.fm@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -19,15 +19,15 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
-hashtag: examplehashtag
+google_analytics: UA-50413464-3
+hashtag: fukabori
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: fukabori,podcast,技術
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Fukabori.fm
+url: https://fukabori.fm
