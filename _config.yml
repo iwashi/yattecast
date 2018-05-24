@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/__kaname__
 author: iwashi
 description: 技術を深掘りして楽しむPodcastです。
-description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcastです。
+description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
 email: fukabori.fm@gmail.com
 exclude:
   - docker
