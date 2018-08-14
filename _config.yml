@@ -15,6 +15,10 @@ actors:
     image_url: /images/actors/nitky.jpg
     name: nitky
     url: https://github.com/nitky
+  slankdev:
+    image_url: /images/actors/slankdev.jpg
+    name: slankdev
+    url: https://github.com/slankdev
 author: iwashi
 description: 技術を深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
