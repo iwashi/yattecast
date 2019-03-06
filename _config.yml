@@ -55,6 +55,10 @@ actors:
     image_url: /images/actors/twada.png
     name: twada
     url: https://twitter.com/t_wada
+  hiranabe:
+    image_url: /images/actors/hiranabe.png
+    name: hiranabe
+    url: https://twitter.com/hiranabe
 author: iwashi
 description: 技術を深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
