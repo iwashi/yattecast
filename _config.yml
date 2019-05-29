@@ -63,6 +63,14 @@ actors:
     image_url: /images/actors/320KZCD.jpg
     name: 320KZCD
     url: https://twitter.com/320KZCD
+  yuyarin:
+    image_url: /images/actors/yuyarin.jpg
+    name: yuyarin
+    url: https://twitter.com/yuyarin
+  shinji_abe:
+    image_url: /images/actors/shinji_abe.jpg
+    name: shinji_abe
+    url: https://twitter.com/shinji_abe
 author: iwashi
 description: 技術を深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
