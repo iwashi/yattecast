@@ -87,6 +87,10 @@ actors:
     image_url: /images/actors/makoga.jpg
     name: makoga
     url: https://twitter.com/makoga
+  yosuke_furukawa:
+    image_url: /images/actors/yosuke_furukawa.jpg
+    name: yosuke_furukawa
+    url: https://twitter.com/yosuke_furukawa
 author: iwashi
 description: 技術を深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術に詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
