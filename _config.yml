@@ -99,6 +99,10 @@ actors:
     image_url: /images/actors/noralife.png
     name: noralife
     url: https://twitter.com/noralife
+  k_mrgk:
+    image_url: /images/actors/k_mrgk.jpg
+    name: k_mrgk
+    url: https://twitter.com/k_mrgk
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
