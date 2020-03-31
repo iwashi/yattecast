@@ -125,5 +125,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Fukabori.fm
+title: fukabori.fm
 url: https://fukabori.fm
