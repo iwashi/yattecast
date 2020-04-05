@@ -103,6 +103,10 @@ actors:
     image_url: /images/actors/k_mrgk.jpg
     name: k_mrgk
     url: https://twitter.com/k_mrgk
+  toby:
+    image_url: /images/actors/toby.png
+    name: toby
+    url: https://twitter.com/yosiaki6
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
@@ -117,7 +121,7 @@ exclude:
   - vendor
 google_analytics: UA-50413464-3
 hashtag: fukabori
-itunes_podcast_url:
+itunes_podcast_url: https://podcasts.apple.com/jp/podcast/fukabori-fm/id1388826609
 keywords: fukabori,podcast,技術
 language: ja
 markdown: kramdown
