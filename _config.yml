@@ -107,6 +107,10 @@ actors:
     image_url: /images/actors/toby.png
     name: toby
     url: https://twitter.com/yosiaki6
+  hiromisugie:
+    image_url: /images/actors/hiromisugie.png
+    name: toby
+    url: https://twitter.com/hiromisugie
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
