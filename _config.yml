@@ -111,6 +111,10 @@ actors:
     image_url: /images/actors/hiromisugie.jpg
     name: hiromisugie
     url: https://twitter.com/hiromisugie
+  tomoaki_mura:
+    image_url: /images/actors/tomoaki_mura.jpg
+    name: tomoaki_mura 
+    url: https://twitter.com/tomoaki_mura
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
