@@ -118,6 +118,11 @@ actors:
   tzkb:
     image_url: /images/actors/tzkb.png
     name: tzkb 
+    url: https://twitter.com/tzkb
+  songmu:
+    image_url: /images/actors/songmu.jpg
+    name: songmu
+    url: https://twitter.com/songmu
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その技術の入門から応用的な内容まで深掘りしていくPodcast
