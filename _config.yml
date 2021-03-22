@@ -151,6 +151,10 @@ actors:
     image_url: /images/actors/raykataoka.jpg
     name: raykataoka
     url: https://twitter.com/raykataoka
+  yohhatu:
+    image_url: /images/actors/yohhatu.jpg
+    name: yohhatu
+    url: https://twitter.com/yohhatu
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
