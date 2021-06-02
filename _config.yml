@@ -159,6 +159,10 @@ actors:
     image_url: /images/actors/JunMakishi.jpg
     name: JunMakishi
     url: https://twitter.com/JunMakishi
+  tomomiminabe:
+    image_url: /images/actors/tomomiminabe.jpeg
+    name: tomomiminabe
+    url: https://twitter.com/tomomiminabe
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
