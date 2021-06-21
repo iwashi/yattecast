@@ -163,6 +163,10 @@ actors:
     image_url: /images/actors/tomomiminabe.jpeg
     name: tomomiminabe
     url: https://twitter.com/tomomiminabe
+  941:
+    image_url: /images/actors/941.jpg
+    name: 941
+    url: https://twitter.com/941
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
